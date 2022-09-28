@@ -9,24 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+### [Download my CV here](http://boyangzhangphd.github.io/files/CV.pdf) (version 2022-09-27)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Civil and Environmental Engineering, Duke University, 2023 (expected)
+  - Durham, NC, USA
+* M.S. in Electrical and Computer Engineering, Duke University, 2023 (expected)
+  - Durham, NC, USA
+* M.S. in Ocean and Naval Architectural Engineering, Memorial University of Newfoundland, 2017
+  - St. John's, NL, Canada
+* B.S. in Ocean and Naval Engineering, Tianjin University, 2013
+  - Tianjin, China
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2015: Technology Intern
+  * American Bureau of Shipping
+  * Duties included: 
+    - Researched the rules and regulations from seven classification societies: ABS, DNV-GL, LR, BV, NK, CCS, and KR.
+    - Upgraded the ABS notation comparison database with 371 modifications.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
