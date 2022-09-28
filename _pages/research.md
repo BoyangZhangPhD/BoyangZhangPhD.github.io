@@ -1,2 +1,26 @@
-Abstract:
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+## Active Projects:
+
+### Multi-agent Double Integrators Swarm Navigation 
+
 Multiagent navigation systems present opportunities for many applications due to their agility and cooperation. In any multiagent navigation system, it is critical that actual interagent collisions are strictly prevented. In this article, we present a solution to the 2-D multiagent navigation problem with collision avoidance. Our solution to this problem is based on a novel extension to Gauss's principle of least constraint (GPLC), in which a fixed set of strict equality constraints is replaced by time-varying sets of active inequality constraints. To the best of our knowledge, this is the first instance that extends GPLC with dynamic incorporation and stabilization of active inequality constraints and with actuator delay and saturation. Herein, the dynamics of a collision-free multiagent system satisfies the Karush-Kuhn-Tucker conditions. Active inequality constraints enforce collision avoidance, leader following, and agglomeration behaviors, and they are stabilized using Baumgarte's error stabilization approach. We show that in dense configurations, the positional arrangement of the agents can lead to linearly dependent constraints, and we propose specialized solutions involving QR decomposition and regularization. The efficacy and efficiency of the proposed method are demonstrated by a dimensional analysis of a worst-case scenario and numerical studies of up to 100 agents tracking a prescribed virtual leader.
+
+### Natual Deadlock Resolution for Multi-agent Multi-swarm Navigation
+
+This paper presents a nonlinear and discontinuous control scheme for two-dimensional (2-D) multi-agent multi-swarm navigation that resolves deadlocks, without heuristics, by agents reacting purely to their constrained dynamics. The method is based on extensions of Gauss's Principle of Least Constraint that dynamically identify, incorporate, and stabilize time-varying sets of constraints and that integrate actuator saturation and delay. The deadlocks are naturally resolved by formulating the 2-D leader following and collision avoidance requirements as decomposed inequality constraints along the X and Y axes and by asymmetrically assigning zero collision avoidance constraint value to a specific branch. Numerical results are presented for two agents and two 15-agent swarms resolving nominal deadlocks at a computation time order of 10 microseconds, demonstrating the efficacy and efficiency of the proposed approach.
+
+### Unified Position and Attitude Control of A Fully Nonlinear Quadrotor
+
+This paper presents a departure from hierarchical cascade methods to control the position and attitude of a fully nonlinear quadrotor. The paper presents a nonlinear feedback control scheme that simultaneously controls position and attitude. The proposed method is based on a generalization of the Gauss's Principle of Least Constraint (GPLC) for higherorder constrained dynamical systems. By double differentiating the rigid-body position dynamics of a fully nonlinear quadrotor with respect to time, the translational and rotational dynamics become fully coupled at the levels of snap and angular acceleration, and the quadrotor is turned into a fully actuated system in a reduced configuration space. A generalized Baumgarte's error stabilization (BES) is developed to asymptotically drive constraint errors to zero. The nonlinear control law is due purely to the natural evolution of constrained system dynamics. To the best of our knowledge, this is the first instance that GPLC and BES are both extended to higher-order systems and that the control scheme for the position and attitude of a quadrotor is unified into one step by making use of its fully nonlinear constrained dynamics. The efficiency and efficacy of the proposed method is demonstrated by numerical experiments on a quadrotor tracking a prescribed conical spiral.
+
+### Centralized, Unified Position-Attitude Control of Multiple Nonlinear Quadrotors
+
+In this paper, we propose a novel nonlinear feedback control law to maneuver a swarm of nonlinear quadrotors with interagent collision avoidance. In contrast to the predominant hierarchical control architectures and dynamics linearization in controller synthesis in the literature, we control the position and attitude of each drone simultaneously in one unified step, with no dynamics linearization involved at any stage. Our method is based on generalizations of Gauss’s principle of least constraint that allows higher order constrained dynamics and that identifies, stabilizes, and incorporates the time-varying sets of active constraints. The active constraints are asymptotically stabilized to the controlled space according to a generalized constraint stabilization to provide command control actions. Numerical results are provided for a swarm of up to 80 nonlinear quadrotors executing aggressive flights and for eight nonlinear drones swapping positions on a circle, attesting to the efficacy and efficiency of the proposed scheme.
