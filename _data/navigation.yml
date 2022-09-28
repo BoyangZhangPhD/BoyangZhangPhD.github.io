@@ -9,11 +9,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "News"
-    url: /news/  
-
   - title: "Service"
     url: /service/
+    
+  - title: "News"
+    url: /news/  
     
   - title: "CV"
     url: /cv/
