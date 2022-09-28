@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-### [Download my CV here](http://boyangzhangphd.github.io/files/CV.pdf) (version 2022-09-27)
+## [Download my CV here](http://boyangzhangphd.github.io/files/CV.pdf) (version 2022-09-27)
+
 
 Education
 ======
