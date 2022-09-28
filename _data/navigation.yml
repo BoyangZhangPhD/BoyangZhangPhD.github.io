@@ -9,8 +9,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "News"
     url: /news/  
+
+  - title: "Service"
+    url: /service/
+    
+  - title: "CV"
+    url: /cv/
+    
