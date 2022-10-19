@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,12 +15,10 @@ redirect_from:
 </object>
 
 
-CV can be downloaded [here](/files/CV_2022-10-19.pdf).
+## CV can be downloaded [here](/files/CV_2022-10-19.pdf) (version 2022-10-19). 
 
 
 {% include base_path %}
-
-## [Download my CV here](http://boyangzhangphd.github.io/files/CV_2022-10-19.pdf) (version 2022-10-19)
 
 
 Education
