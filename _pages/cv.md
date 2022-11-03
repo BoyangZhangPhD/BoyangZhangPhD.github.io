@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
+<!---
 {% include base_path %}
-
+-->
 
 <object data="/files/CV_Nov.2022.pdf" type="application/pdf" width="100%" height="100%" frameborder="no" border="0" marginwidth="0" marginheight="0" padding="0">
   <!---  
@@ -16,12 +17,10 @@ redirect_from:
   -->
 </object>
 
-
+<!---
 ## CV can be downloaded [here](/files/CV_Nov.2022.pdf) (version November 2022). 
-
-<!--- 
+ 
 {% include base_path %}
-
 
 Education
 ======
