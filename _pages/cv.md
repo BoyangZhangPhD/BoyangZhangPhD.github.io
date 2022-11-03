@@ -1,8 +1,6 @@
 ---
 layout: archive
-<!--
-title: "CV"
---> 
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -13,7 +11,9 @@ redirect_from:
 
 
 <object data="/files/CV_Nov.2022.pdf" type="application/pdf" width="100%" height="100%" frameborder="no" border="0" marginwidth="0" marginheight="0" padding="0">
-    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/CV_Nov.2022.pdf">Download PDF</a>.</p>
+  <!---  
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/CV_Nov.2022.pdf">Download PDF</a>.</p>
+  -->
 </object>
 
 
