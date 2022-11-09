@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+As we enter an era of intelligence and autonomy, humans are being liberated from conducting tedious, complex, and even hazardous missions by robots. Control algorithm is the nucleus of such an intelligent and autonomous robot. In real world applications, the robot is subjected to unknown external disturbances, parametric variations, actuator saturation and delay. Furthermore, swarms of robots are needed to perform collaborative tasks while ensuring inter-agent collision avoidance. This makes safety, resilience, robustness, and computation efficiency indispensable features of the control algorithm, which attracts ongoing research efforts within the robotics and control community.  
+
+To address the open challenge, I propose a new control paradigm for general dynamical systems such as robots in my dissertation by rejuvenating a fundamental principle conceived by the polymath Gauss in 1829. The methodology poses the control problem at hand as a constrained minimization problem whose objective function, the unconstrained dynamics, is always satisfied. The performance of e.g., virtual leader tracking and collision avoidance and the controller structure (i.e., centralized or decentralized) are achieved by constraints alone. This approach has been applied to the navigation control of hundreds of double integrators, nonlinear quadrotor drones, and two-wheeled mobile robots. I feel humbled and excited that my method is recognized by highly-ranked journals and conferences in automation and control. 
+
 ## Active Projects:
 
 ### Multi-agent Double Integrators Swarm Navigation 
