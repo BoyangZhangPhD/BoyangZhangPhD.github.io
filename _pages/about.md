@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Department of Civil and Environmental Engineering](https://cee.duke.edu/) at [Duke University](https://duke.edu). My dissertation research focuses on navigation control of multi-agent robotics with collision avoidance. My methodology has been successfully applied to navigate swarms of quadrotor drones and nonholonomic wheeled mobile robots. 
+I am a PhD Candidate in the [Department of Civil and Environmental Engineering at Duke University](https://cee.duke.edu/). My dissertation research focuses on navigation control of multi-agent robotics with collision avoidance. My methodology has been successfully applied to navigate swarms of quadrotor drones and nonholonomic wheeled mobile robots and has been recognized by highly-ranked journals and conferences in automation and control. I am currently looking for tenure-track assistant professorship in the following engineering departments: Aerospace, Mechanical, Civil, Control, System, Electrical, and Robotics, with an emphasis on dynamical systems and control. 
 
-As we enter an era of intelligence and autonomy, humans are being liberated from conducting tedious, complex, and even hazardous missions by robots. Control algorithm is the nucleus of such an intelligent and autonomous robot. In real world applications, the robot is subjected to unknown external disturbances, parametric variations, actuator saturation and delay. Furthermore, swarms of robots are needed to perform collaborative tasks while ensuring inter-agent collision avoidance. This makes safety, resilience, robustness, and computation efficiency indispensable features of the control algorithm, which attracts ongoing research efforts within the robotics and control community.  
+I hold an M.S. degree in [Electrical and Computer Engineering from Duke University](https://ece.duke.edu/). Prior to coming to Duke, I earned an M.Eng. degree from [Memorial University of Newfoundland, Canada](https://www.mun.ca/) and a B.Eng. degree from [Tianjin University, China](https://www.tju.edu.cn/), both in ocean and naval architectural engineering. 
 
-To address the open challenge, I propose a new control paradigm for general dynamical systems such as robots in my dissertation by rejuvenating a fundamental principle conceived by the polymath Gauss in 1829. The methodology poses the control problem at hand as a constrained minimization problem whose objective function, the unconstrained dynamics, is always satisfied. The performance of e.g., virtual leader tracking and collision avoidance and the controller structure (i.e., centralized or decentralized) are achieved by constraints alone. This approach has been applied to the navigation control of hundreds of double integrators, nonlinear quadrotor drones, and two-wheeled mobile robots. I feel humbled and excited that my method is recognized by highly-ranked journals and conferences in automation and control. 
-
-I hold a B.Eng. degree from [Tianjin University, China](https://www.tju.edu.cn/) and a M.Eng. degree from [Memorial University of Newfoundland, Canada](https://www.mun.ca/), both in in ocean and naval architectural engineering. 
-
+ 
+<!---
 It is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -56,3 +54,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+--> 
