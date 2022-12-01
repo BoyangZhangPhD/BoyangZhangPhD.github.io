@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Boyang Zhang"
 title_separator          : "-"
 name                     : &name "Boyang Zhang"
-description              : &description "PhD Candidate at Duke University"
+description              : &description "PhD Candidate with research expertise in robotics and control"
 url                      : https://BoyangZhangPhD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BoyangZhangPhD/BoyangZhangPhD.github.io"
@@ -114,7 +114,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "iCAKofYodO6bQFjhXljFdw"
+  youtube          : "bethlehemzhang8990"
   wikipedia        :
 
 
