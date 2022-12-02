@@ -11,14 +11,14 @@ redirect_from:
 {% include base_path %}
 -->
 
-<object data="/files/CV_Dec.2022.pdf" type="application/pdf" width="80%" height="90%" frameborder="no" border="0" marginwidth="0" marginheight="0" padding="0">
+<object data="/files/CV_Dec.22.pdf" type="application/pdf" width="80%" height="90%" frameborder="no" border="0" marginwidth="0" marginheight="0" padding="0">
   <!---  
-  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/CV_Dec.2022.pdf">Download PDF</a>.</p>
+  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/CV_Dec.22.pdf">Download PDF</a>.</p>
   -->
 </object>
 
 <!---
-## CV can be downloaded [here](/files/CV_Dec.2022.pdf) (version December 2022). 
+## CV can be downloaded [here](/files/CV_Dec.22.pdf) (version December 2022). 
  
 {% include base_path %}
 
