@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Boyang Zhang"
+title                    : "Boyang Zhang, PhD"
 title_separator          : "-"
-name                     : &name "Boyang Zhang"
-description              : &description "PhD Candidate with research expertise in robotics and control"
+name                     : &name "Boyang Zhang, PhD"
+description              : &description "Researcher with expertise in robotics, control, and optimization. PhD @ Duke."
 url                      : https://BoyangZhangPhD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BoyangZhangPhD/BoyangZhangPhD.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Boyang Zhang"
+  name             : "Boyang Zhang, PhD"
   avatar           : "BZ_Duke_Bricks.PNG"
-  bio              : "PhD Candidate with research expertise in robotics and control"
+  bio              : "Duke PhD | Roboticist | Control Theorist"
   employer         : "Duke University"
   location         : "Durham, NC, USA"
   email            : "boyang.zhang@duke.edu"
