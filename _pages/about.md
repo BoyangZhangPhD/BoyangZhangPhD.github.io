@@ -16,7 +16,10 @@ By successfully writing applications and proposals, I have won more than **$197,
 
 I am honored to have received some of the most selective and prestigious awards during my doctoral training at Duke University, including [Preparing Future Faculty Fellowship](https://gradschool.duke.edu/professional-development/programs/preparing-future-faculty/), [Bass Instructional Teaching Assistant Fellowship](https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships/), [Summer Research Fellowship](https://gradschool.duke.edu/financial-support/find-funding/summer-research-fellowship-students-physical-sciences-and-engineering-third-year-phd-students-and/), [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), and [U.S. Army Research Office Short-Term Innovative Research Award](https://www.arl.army.mil/collaborate-with-us/opportunity/arl-baa/). These fellowships and trainings have prepared me adequately to be a successful researcher and educator. 
 
-Please feel free to contact me via <code class="language-plaintext highlighter-rouge">boyang[dot]zhang[at]duke[dot]edu</code> for any questions or opportunities. 
+---
+_Please feel free to contact me via <code class="language-plaintext highlighter-rouge">boyang[dot]zhang[at]duke[dot]edu</code> for any questions or opportunities._
+
+--- 
 
  
 <!---
