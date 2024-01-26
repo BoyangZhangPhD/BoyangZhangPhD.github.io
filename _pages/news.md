@@ -24,6 +24,8 @@ author_profile: true
 
 <b>[09/2022]</b> Won the only [IEEE Conference on Decision and Control Student Travel and Workshop Award ($825)](https://cdc2022.ieeecss.org/student-travel-support) from eight Duke student authors! <br />
 
+<b>[09/2022]</b> Created my [personal website](https://boyangzhangphd.github.io/)! <br />
+
 
 <!---
 
