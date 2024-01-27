@@ -7,11 +7,13 @@ redirect_from:
   - /resume
 ---
 
-<!---
 {% include base_path %}
--->
 
 ### You can also download my CV [here](/files/CV_Boyang_Zhang.pdf) (version December 2023). 
+
+{% include base_path %}
+
+---
 
 <object data="/files/CV_Boyang_Zhang.pdf" type="application/pdf" width="80%" height="90%" frameborder="no" border="0" marginwidth="0" marginheight="0" padding="0">
   <!---  
