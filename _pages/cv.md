@@ -11,6 +11,8 @@ redirect_from:
 {% include base_path %}
 -->
 
+### You can also download my CV [here](/files/CV_Boyang_Zhang.pdf) (version December 2023). 
+
 <object data="/files/CV_Boyang_Zhang.pdf" type="application/pdf" width="80%" height="90%" frameborder="no" border="0" marginwidth="0" marginheight="0" padding="0">
   <!---  
   <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/CV_Boyang_Zhang.pdf">Download PDF</a>.</p>
@@ -18,7 +20,6 @@ redirect_from:
 </object>
 
 <!---
-## CV can be downloaded [here](/files/CV_Boyang_Zhang.pdf) (version August 2023). 
  
 {% include base_path %}
 
