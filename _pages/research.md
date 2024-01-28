@@ -23,11 +23,11 @@ I propose a new control paradigm for general dynamical systems such as robots in
 
 [//]: # (<center>)
 
-[//]: # (  <img src="../images/TAC22/100Agent-path.jpeg" width="70%" />)
+[//]: # (  <img src="../images/TAC22/100Agent-path.jpeg" width="50%" />)
 
 [//]: # (</center>)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/HkIxFIba1sI" title="100-agent swarm navigation and control;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="50%" height="40%" src="https://www.youtube.com/embed/HkIxFIba1sI" title="100-agent swarm navigation and control;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
   <summary><b>[Abstract]</b></summary>
@@ -49,15 +49,15 @@ Multiagent navigation systems present opportunities for many applications due to
 
 [//]: # (</center>)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ogNqEoryYIQ" title="Two-Agent Deadlock Resolution;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="50%" height="30%" src="https://www.youtube.com/embed/ogNqEoryYIQ" title="Two-Agent Deadlock Resolution;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [//]: # (<center>)
 
-[//]: # (  <img src="../images/CDC21/2Swarm-path.png" width="60%" />)
+[//]: # (  <img src="../images/CDC21/2Swarm-path.png" width="40%" />)
 
 [//]: # (</center>)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/10CXrmDop48" title="Two 15-Agent Swarms Deadlock Resolution;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="40%" height="20%" src="https://www.youtube.com/embed/10CXrmDop48" title="Two 15-Agent Swarms Deadlock Resolution;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
   <summary><b>[Abstract]</b></summary>
