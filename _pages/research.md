@@ -15,9 +15,11 @@ To address these needs, I have developed a new control paradigm that is _defined
 I propose a new control paradigm for general dynamical systems such as robots in my dissertation by rejuvenating a fundamental principle conceived by the polymath Gauss in 1829. The methodology poses the control problem at hand as a constrained minimization problem whose objective function, the unconstrained dynamics, is always satisfied. The performance of e.g., virtual leader tracking and collision avoidance and the controller structure (i.e., centralized or decentralized) are achieved by constraints alone. This approach has been applied to the navigation control of hundreds of double integrators, nonlinear quadrotor drones, and two-wheeled mobile robots. I feel humbled and excited that my method is recognized by highly-ranked journals and conferences in automation and control. 
 --> 
 
-# Active Projects:
+# Research Projects:
 
-## Multi-agent Double Integrators Swarm Navigation 
+## Navigation Control of Swarms of Double Integrators 
+
+### Centralized Control with Vector-Norm-Based Constraints 
 
 {% include base_path %}
 
@@ -39,7 +41,7 @@ Multiagent navigation systems present opportunities for many applications due to
 - Watch the demo via: [[YouTube](https://youtu.be/HkIxFIba1sI)].
 
 
-## Natual Deadlock Resolution for Multi-agent Multi-swarm Navigation
+### Centralized Control with Vector-Component-Based Constraints 
 
 {% include base_path %}
 
@@ -68,11 +70,76 @@ This paper presents a nonlinear and discontinuous control scheme for two-dimensi
 - Access our paper via [[paper](https://ieeexplore.ieee.org/document/9683102)].
 - Watch the demos via: [[YouTube-1](https://youtu.be/ogNqEoryYIQ)] and [[YouTube-2](https://youtu.be/10CXrmDop48)].
 
+### Decentralized Control with Vector-Component-Based Constraints 
 
-## Unified Position and Attitude Control of A Fully Nonlinear Quadrotor
+<iframe width="200" height="100" src="https://www.youtube.com/embed/C0_q3lxDYyY" title="Fully Decentralized Navigation Control of 200 Agents;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<details>
+  <summary><b>[Abstract]</b></summary>
+
+In this letter, we introduce a decentralized, nonlinear, discontinuous, and computationally simple control law for large scale multiagent navigation systems. The control is based on extending Gauss's principle of least constraint with a dynamic incorporation of inequality constraints, actuator saturation, and actuator dynamics. With no individual path planner, each agent executes its motion and generates its control actions by reacting solely to the evolution of its constrained dynamics, which is equivalent to solving a linear matrix equation with a dimension up to around 20 without iteration at each time instant. Numerical experiments are conducted on hundreds of two-dimensional (2-D) double integrators subjected to path and collision constraints, demonstrating the promise of the proposed method.
+
+</details>
+
+- Access our paper via [[paper](https://ieeexplore.ieee.org/document/9763476)].
+- Watch the demo via: [[YouTube](https://youtu.be/C0_q3lxDYyY)].
+
+{% include base_path %}
+
+## High-Speed Navigation Control of Nonholonomic Wheeled Mobile Robots
+
+### High-Speed Tracking Control of A Two-Wheeled Mobile Robot Subject to Unknown External Disturbances
+
+<iframe width="200" height="100" src="https://www.youtube.com/embed/RdBtaXrZVq8" title="Tracking Control of A High-Speed, Differential Drive Wheeled Mobile Robot under Sinusoidal Forcing;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="200" height="100" src="https://www.youtube.com/embed/hPRplXrn8HQ" title="Tracking Control of A High-Speed, Differential Drive Wheeled Mobile Robot under Gaussian Forcing;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<details>
+  <summary><b>[Abstract]</b></summary>
+
+This paper presents a computationally efficient, heuristic-free, and nonlinear feedback control framework for the tracking control of the position and orientation of a differential drive wheeled mobile robot (WMR) subjected to high-speed maneuvers and external disturbances. We synthesize the control law by an extension of Gauss’s principle of least constraint with dynamic incorporation of holonomic and nonholonomic equality constraints and with coordinate transformation. The command control actions for the WMR’s constrained dynamics result from solving a linear matrix equation (a Karush-Kuhn-Tucker system) at each point in time. No dynamics linearization or iterative solution is involved in the framework. Numerical experiments of a high-speed, differential drive WMR under sinusoidal and Gaussian external disturbances are presented to showcase the effectiveness of the proposed method.
+
+</details>
+
+- Access our paper via [[paper](https://ieeexplore.ieee.org/document/10156242)].
+- Watch the demos via: [[YouTube-1](https://youtu.be/RdBtaXrZVq8)] and [[YouTube-2](https://youtu.be/hPRplXrn8HQ)].
+
+{% include base_path %}
+
+## Unified Position-Attitude Control of Nonlinear Quadrotor UAVs
+
+### Unified Position and Attitude Control of A Fully Nonlinear Quadrotor
+
+<iframe width="200" height="100" src="https://www.youtube.com/embed/-1QB2EVS2fQ" title="Unified Position and Attitude Control of A Fully Nonlinear Quadrotor;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<details>
+  <summary><b>[Abstract]</b></summary>
 
 This paper presents a departure from hierarchical cascade methods to control the position and attitude of a fully nonlinear quadrotor. The paper presents a nonlinear feedback control scheme that simultaneously controls position and attitude. The proposed method is based on a generalization of the Gauss's Principle of Least Constraint (GPLC) for higherorder constrained dynamical systems. By double differentiating the rigid-body position dynamics of a fully nonlinear quadrotor with respect to time, the translational and rotational dynamics become fully coupled at the levels of snap and angular acceleration, and the quadrotor is turned into a fully actuated system in a reduced configuration space. A generalized Baumgarte's error stabilization (BES) is developed to asymptotically drive constraint errors to zero. The nonlinear control law is due purely to the natural evolution of constrained system dynamics. To the best of our knowledge, this is the first instance that GPLC and BES are both extended to higher-order systems and that the control scheme for the position and attitude of a quadrotor is unified into one step by making use of its fully nonlinear constrained dynamics. The efficiency and efficacy of the proposed method is demonstrated by numerical experiments on a quadrotor tracking a prescribed conical spiral.
 
-## Centralized, Unified Position-Attitude Control of Multiple Nonlinear Quadrotors
+</details>
+
+- Access our paper via [[paper](https://ieeexplore.ieee.org/document/9483358)].
+- Watch the demo via: [[YouTube](https://youtu.be/C0_q3lxDYyY)].
+
+
+### Centralized, Unified Position-Attitude Control of Multiple Nonlinear Quadrotor UAVs
 
 In this paper, we propose a novel nonlinear feedback control law to maneuver a swarm of nonlinear quadrotors with interagent collision avoidance. In contrast to the predominant hierarchical control architectures and dynamics linearization in controller synthesis in the literature, we control the position and attitude of each drone simultaneously in one unified step, with no dynamics linearization involved at any stage. Our method is based on generalizations of Gauss’s principle of least constraint that allows higher order constrained dynamics and that identifies, stabilizes, and incorporates the time-varying sets of active constraints. The active constraints are asymptotically stabilized to the controlled space according to a generalized constraint stabilization to provide command control actions. Numerical results are provided for a swarm of up to 80 nonlinear quadrotors executing aggressive flights and for eight nonlinear drones swapping positions on a circle, attesting to the efficacy and efficiency of the proposed scheme.
+
+### Decentralized, Unified Position-Attitude Control of Multiple Nonlinear Quadrotor UAVs
+
+<iframe width="200" height="100" src="https://www.youtube.com/embed/HyypDPPdLzk" title="Decentralized Unified Position-Attitude Control of 10 Nonlinear Quadrotor UAVs Following a Virtual Leader;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="200" height="100" src="https://www.youtube.com/embed/ZAmDssH8h74" title="Decentralized Unified Position-Attitude Control of 8 Nonlinear Quadrotor UAVs Swapping Positions on A Circle;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<details>
+  <summary><b>[Abstract]</b></summary>
+
+In this paper, we propose a fully decentralized, nonlinear feedback control law to maneuver multiple nonlinear quadrotor UAVs with interagent collision avoidance and natural deadlock resolution. Most existing work on this problem adopts a cascaded position-attitude control scheme and utilizes linearized dynamics in controller synthesis. In this work, each UAV controls its position and attitude simultaneously in one unified step, with no dynamics linearization involved at any stage. The proposed scheme is based on a generalization of Gauss’s principle of least constraint that allows constrained systems of any order and any type and that identifies, differentiates, stabilizes, partitions, and incorporates the active constraints at each time instant. The control actions result from asymptotically stabilizing the active constraints by user-specified natural frequencies and damping ratios according to a generalized constraint stabilization. Two numerical examples are used to demonstrate the effectiveness of the present method, whose performance on collision avoidance and deadlock resolution is sufficiently close to that of a centralized method.
+
+</details>
+
+- Access our paper via [[paper](https://ieeexplore.ieee.org/document/9992624)].
+- Watch the demos via: [[YouTube-1](https://youtu.be/HyypDPPdLzk)] and [[YouTube-2](https://youtu.be/ZAmDssH8h74)].
+
