@@ -27,7 +27,7 @@ I propose a new control paradigm for general dynamical systems such as robots in
 
 [//]: # (</center>)
 
-<iframe width="50%" height="40%" src="https://www.youtube.com/embed/HkIxFIba1sI" title="100-agent swarm navigation and control;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="200" height="100" src="https://www.youtube.com/embed/HkIxFIba1sI" title="100-agent swarm navigation and control;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
   <summary><b>[Abstract]</b></summary>
@@ -49,7 +49,7 @@ Multiagent navigation systems present opportunities for many applications due to
 
 [//]: # (</center>)
 
-<iframe width="50%" height="30%" src="https://www.youtube.com/embed/ogNqEoryYIQ" title="Two-Agent Deadlock Resolution;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="200" height="100" src="https://www.youtube.com/embed/ogNqEoryYIQ" title="Two-Agent Deadlock Resolution;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [//]: # (<center>)
 
@@ -57,7 +57,7 @@ Multiagent navigation systems present opportunities for many applications due to
 
 [//]: # (</center>)
 
-<iframe width="40%" height="20%" src="https://www.youtube.com/embed/10CXrmDop48" title="Two 15-Agent Swarms Deadlock Resolution;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="200" height="100" src="https://www.youtube.com/embed/10CXrmDop48" title="Two 15-Agent Swarms Deadlock Resolution;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
   <summary><b>[Abstract]</b></summary>
