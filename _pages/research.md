@@ -11,8 +11,8 @@ As we enter an era of autonomy and artificial intelligence (AI), humans are bein
 
 To address these needs, I have developed a new control paradigm for general (i.e., nonlinear, time-varying, arbitrary-order) dynamical systems by rejuvenating a fundamental principle conceived by the polymath Gauss in 1829. that is _defined entirely by the active subset of a full set of inequality constraints at any instant_ . Distinct from the literature, my work poses the control problem as a constrained optimization that does **_not_** involve a cost function, a time horizon, or any linearization, and the stability, performance (e.g., path tracking and collision avoidance), and structure (i.e., centralized or decentralized) of the controller are realized by constraints alone. I have successfuly applied this paradigm to controlling swarms of navigation systems such as quadrotor UAVs and wheeled mobile robots and published the results in several highly-ranked journals and conferences in automation and control. 
 
-Here I illustrate the fundamental idea of my **Generalized Gauss's Principle of Least Constraint** by controlling an inequality-constrained mass.
-<iframe width="200" height="100" src="https://www.youtube.com/embed/uGvZWZVR1ms" title="Generalized Gauss's Principle of Least Constraint Illustrated by An Inequality-Constrained Mass;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Here I illustrate the fundamental idea of my **Generalized Gauss's Principle of Least Constraint (GGPLC)-Based Control** by controlling an inequality-constrained mass.
+<iframe width="200" height="100" src="https://www.youtube.com/embed/uGvZWZVR1ms" title="Generalized Gauss's Principle of Least Constraint Illustrated by An Inequality-Constrained Mass;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br />
 
 <!---
 I propose a new control paradigm for general dynamical systems such as robots in my dissertation by rejuvenating a fundamental principle conceived by the polymath Gauss in 1829. The methodology poses the control problem at hand as a constrained minimization problem whose objective function, the unconstrained dynamics, is always satisfied. The performance of e.g., virtual leader tracking and collision avoidance and the controller structure (i.e., centralized or decentralized) are achieved by constraints alone. This approach has been applied to the navigation control of hundreds of double integrators, nonlinear quadrotor drones, and two-wheeled mobile robots. I feel humbled and excited that my method is recognized by highly-ranked journals and conferences in automation and control. 
@@ -44,7 +44,7 @@ Multiagent navigation systems present opportunities for many applications due to
 - Watch the demo via: [[YouTube](https://youtu.be/HkIxFIba1sI)].
 
 
-### Centralized Control with Vector-Component-Based Constraints 
+### Constraint Decomposition &#151 Centralized Control with Vector-Component-Based Constraints 
 
 {% include base_path %}
 
@@ -73,7 +73,7 @@ This paper presents a nonlinear and discontinuous control scheme for two-dimensi
 - Access our paper via [[paper](https://ieeexplore.ieee.org/document/9683102)].
 - Watch the demos via: [[YouTube-1](https://youtu.be/ogNqEoryYIQ)] and [[YouTube-2](https://youtu.be/10CXrmDop48)].
 
-### Decentralized Control with Vector-Component-Based Constraints 
+### Constraint Partitioning &#151 Decentralized Control with Vector-Component-Based Constraints 
 
 <iframe width="200" height="100" src="https://www.youtube.com/embed/C0_q3lxDYyY" title="Fully Decentralized Navigation Control of 200 Agents;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
