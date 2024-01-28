@@ -44,7 +44,7 @@ Multiagent navigation systems present opportunities for many applications due to
 - Watch the demo via: [[YouTube](https://youtu.be/HkIxFIba1sI)].
 
 
-### Constraint Decomposition &#151 Centralized Control with Vector-Component-Based Constraints 
+### Constraint Decomposition <span class="emdash">&mdash;</span> Centralized Control with Vector-Component-Based Constraints 
 
 {% include base_path %}
 
@@ -73,7 +73,7 @@ This paper presents a nonlinear and discontinuous control scheme for two-dimensi
 - Access our paper via [[paper](https://ieeexplore.ieee.org/document/9683102)].
 - Watch the demos via: [[YouTube-1](https://youtu.be/ogNqEoryYIQ)] and [[YouTube-2](https://youtu.be/10CXrmDop48)].
 
-### Constraint Partitioning &#151 Decentralized Control with Vector-Component-Based Constraints 
+### Constraint Partitioning <span class="emdash">&mdash;</span> Decentralized Control with Vector-Component-Based Constraints 
 
 <iframe width="200" height="100" src="https://www.youtube.com/embed/C0_q3lxDYyY" title="Fully Decentralized Navigation Control of 200 Agents;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
