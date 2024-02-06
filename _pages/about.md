@@ -18,7 +18,7 @@ So far I have published my doctoral [**research**](https://boyangzhangphd.github
 
 During my doctoral training at Duke, I had the privilege of receiving several highly selective and prestigious awards, including [Preparing Future Faculty Fellowship](https://gradschool.duke.edu/professional-development/programs/preparing-future-faculty/), [Bass Instructional Teaching Assistant Fellowship](https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships/), [Summer Research Fellowship](https://gradschool.duke.edu/financial-support/find-funding/summer-research-fellowship-students-physical-sciences-and-engineering-third-year-phd-students-and/), [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), and [U.S. Army Research Office Short-Term Innovative Research Award](https://www.arl.army.mil/collaborate-with-us/opportunity/arl-baa/). These accolades and training experiences have equipped me to excel as both a researcher and educator. 
 
-Here is my **[CV](https://boyangzhangphd.github.io/cv)**. More updates of mine can be found under the "[**News**](https://boyangzhangphd.github.io/news)" tab on my website. 
+Here is my [**CV**](https://boyangzhangphd.github.io/cv). More updates of mine can be found under the "[**News**](https://boyangzhangphd.github.io/news)" tab on my website. 
 
 ---
 
@@ -27,6 +27,9 @@ I look forward to talking with you soon!
 
 --- 
 
+<br/><br/>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DlSMo3z0AdxQhtPfR5A3KhMXa2GBayjG7Mc48sDhpE4&cl=ffffff&w=a"></script>
  
 <!---
 (e.g., [Bass Instructional Teaching Assistant Fellowship](https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships/bass-instructional-teaching/), [Summer Research Fellowship](https://gradschool.duke.edu/financial-support/find-funding/summer-research-fellowship-students-physical-sciences-and-engineering-third-year-phd-students-and/), [IEEE Conference on Decision and Control Student Travel Award](https://ieeecss.org/activities/student-travel-support), and [U.S. Army Research Office Short-Term Innovative Research Award](https://www.arl.army.mil/collaborate-with-us/opportunity/arl-baa/))
