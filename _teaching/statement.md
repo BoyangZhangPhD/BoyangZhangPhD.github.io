@@ -28,17 +28,14 @@ and to educate them to be excellent contributors to society.
 <table>
   <tbody>
     <tr>
-      <td>* Uncertainty, Design, and Optimization (CEE 201)</td>
+      <td>* Uncertainty, Design, and Optimization (CEE 201)<br />
+            &nbsp;&nbsp;- 20 undergraduate students</td>
       <td>Co-instructor</td>
       <td>Spring 2023</td>
     </tr>
     <tr>
-      <td>  * 20 undergraduate students</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-    </tr>
-    <tr>
-      <td>* Risk and Resilience in Engineering (CEE 690.06) <br />   * 15 graduate/undergraduate students</td>
+      <td>* Risk and Resilience in Engineering (CEE 690.06)<br />
+        &nbsp;&nbsp;&nbsp;&nbsp;- 15 graduate/undergraduate students</td>
       <td>Graduate Teaching Assistant</td>
       <td>Spring 2022</td>
     </tr>
