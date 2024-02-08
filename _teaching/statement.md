@@ -24,9 +24,11 @@ My past teaching experiences are presented as below.
 
 ### At Duke University, Durham, NC, USA
 
+{% include base_path %}
+
 <!---
   Reference to create a table without borders: https://gist.github.com/rgoj/1350d71e57b68684cc30f38a9b0703f5.
-  The table-without-borders solutions that involve {% stripnewlines %} and Indentation in (https://developer.silverfin.com/docs/tables-in-silverfin) caused failures in compilations.
+  The table-without-borders solutions that involve stripnewlines and Indentation in (https://developer.silverfin.com/docs/tables-in-silverfin) caused failures in compilations.
 -->
 
 <style>
@@ -67,6 +69,8 @@ My past teaching experiences are presented as below.
 <br />
 
 ### At Memorial University, St. John's, NL, Canada
+
+{% include base_path %}
 
 <style>
   table td {
