@@ -24,9 +24,15 @@ My past teaching experiences are presented as below.
 
 ### At Duke University, Durham, NC, USA
 
+<!---
+  Reference to create a table without borders: https://gist.github.com/rgoj/1350d71e57b68684cc30f38a9b0703f5.
+  The table-without-borders solutions that involve {% stripnewlines %} and Indentation in (https://developer.silverfin.com/docs/tables-in-silverfin) caused failures in compilations.
+-->
+
 <style>
   table td {
     border: none !important;
+    font-size:14px;
   }
 </style>
 <table>
@@ -65,6 +71,7 @@ My past teaching experiences are presented as below.
 <style>
   table td {
     border: none !important;
+    font-size:14px;
   }
 </style>
 <table>
