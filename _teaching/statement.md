@@ -22,7 +22,7 @@ My past teaching experiences are presented as below.
 
 {% include base_path %}
 
-### At Duke University, Durham, NC, USA
+## At Duke University, Durham, NC, USA
 
 {% include base_path %}
 
@@ -68,7 +68,7 @@ My past teaching experiences are presented as below.
 
 {% include base_path %}
 
-### At Memorial University, St. John's, NL, Canada
+## At Memorial University, St. John's, NL, Canada
 
 {% include base_path %}
 
