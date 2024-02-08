@@ -28,12 +28,24 @@ and to educate them to be excellent contributors to society.
 <table>
   <tbody>
     <tr>
-      <td>Column One</td>
-      <td>Column One</td>
+      <td>* Uncertainty, Design, and Optimization (CEE 201)</td>
+      <td>Co-instructor</td>
+      <td>Spring 2023</td>
     </tr>
     <tr>
-      <td>Content of column one</td>
-      <td>Content of column two</td>
+      <td>  * 20 undergraduate students</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>* Risk and Resilience in Engineering (CEE 690.06) <br />   * 15 graduate/undergraduate students</td>
+      <td>Graduate Teaching Assistant</td>
+      <td>Spring 2022</td>
+    </tr>
+    <tr>
+      <td>* Mechanics of Solids (EGR 201)</td>
+      <td>Graduate Teaching Assistant</td>
+      <td>Fall 2021</td>
     </tr>
   </tbody>
 </table>
