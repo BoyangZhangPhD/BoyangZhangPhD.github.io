@@ -12,11 +12,11 @@ Throughout my graduate education in four engineering disciplines
 [ocean &amp; naval architectural engineering](https://www.mun.ca/engineering/ona/))
 in the United States and Canada,
 I have taught/TA-ed a total of 440 students from four disciplines
-in eight different courses (two graduate courses and six undergraduate courses),
-whose class sizes range from seven to 106 students.
-Through those diverse teaching experiences, I have found passion in interacting with students and teaching in higher education. My ultimate teaching objectives are to
-equip my students with the competency to identify, formulate, and innovatively solve engineering challenges
-and to educate them to be excellent contributors to society. 
+across eight distinct courses.
+These courses encompassed two graduate-level and six undergraduate-level classes, 
+with class sizes ranging from seven students to 106 learners.
+
+Engaging with this diverse student body has ignited within me a profound passion in interacting with students and teaching in higher education. My overarching aim as an educator is to empower my students with the skills to identify, formulate, and innovatively solve pressing engineering challenges and to educate them to be ethical, competent, and innovative contributors to society.
 
 My past teaching experiences are presented as below.
 
@@ -109,21 +109,14 @@ My past teaching experiences are presented as below.
 
 {% include base_path %} 
 
-As a future faculty member, I aspire to implement state-of-the-art pedagogical techniques as
-well as my own research findings into my teaching to enrich the students’ learning experience.
-In order to better prepare myself, I have participated in the [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching), 
+Reflecting on my teaching journey thus far, I am committed to continually refining my pedagogical approach by integrating cutting-edge instructional techniques and leveraging insights gleaned from my own research endeavors. To this end, I have actively pursued professional development opportunities, including the [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching), 
 [Certificate in Teaching Writing](https://twp.duke.edu/students/graduate/certificate-program), 
-and [Preparing Future Faculty](https://gradschool.duke.edu/professional-development/programs/preparing-future-faculty) programs at Duke University. 
-Through the CCT program, I have taken courses on the most effective instructional skills,
-course design and syllabus construction, online and hybrid pedagogy, and teaching diverse learners.
-Moreover, through the CCT Teaching Triangles, my teaching was observed and given feedback by
-peer PhD students from biology, political science, and romance studies.
+and [Preparing Future Faculty](https://gradschool.duke.edu/professional-development/programs/preparing-future-faculty) programs at Duke University.
 
-From those teaching experiences and training programs, I have gained indispensable knowledge
-and skills in teaching in higher education. As a recognition, I was [**nominated for Outstanding
-TA Award**](https://drive.google.com/file/d/176joML9j3vXGhrd3ddlEBBxJxWcgS3fj/view?usp=sharing) 
-while at Memorial University and [**won the Bass Instructional TA Fellowship**](https://gradschool.duke.edu/about/news/fellowship-snapshots-2022/), 
-one of only four awardees selected from Duke PhD candidates across all years and disciplines.
+Participation in the Certificate in College Teaching program afforded me exposure to a range of pedagogical topics, including effective instructional skills, course design and syllabus construction, online and hybrid pedagogy, and approaches to teaching diverse learners. Through the program's Teaching Triangles initiative, I received valuable peer feedback on my teaching methodologies from PhD students representing varied academic disciplines, including biology, political science, and romance studies.
+
+My dedication to teaching excellence has been recognized through an [**Outstanding
+TA Award Nominee**](https://drive.google.com/file/d/176joML9j3vXGhrd3ddlEBBxJxWcgS3fj/view?usp=sharing) at Memorial University and the prestigious [**Bass Instructional TA Fellowship**](https://gradschool.duke.edu/about/news/fellowship-snapshots-2022/) at Duke University, where I was selected as one of only four recipients from among PhD candidates spanning all disciplines and academic years. These accolades underscore my commitment to fostering inclusive, dynamic learning environments that inspire students to excel and thrive.
 
 <!---
 * Uncertainty, Design, and Optimization (CEE 201) | Co-instructor | Spring 2023 <br />
