@@ -20,8 +20,8 @@ My ultimate teaching objectives are to
 equip my students with the competency to identify, formulate, and innovatively solve engineering challenges
 and to educate them to be excellent contributors to society.
 
-| Uncertainty, Design, and Optimization (CEE 201) | Co-instructor | Spring 2023 {% newline %}
-|--> 20 undergraduate students | &nbsp; | &nbsp; {% newline %}
-| Risk and Resilience in Engineering (CEE 690.06) | Graduate Teaching Assistant | Spring 2022 {% newline %}
-| Mechanics of Solids (EGR 201) | Graduate Teaching Assistant | Fall 2021 {% newline %}
+| Uncertainty, Design, and Optimization (CEE 201) | Co-instructor | Spring 2023 <br />
+|--> 20 undergraduate students | &nbsp; | &nbsp; <br />
+| Risk and Resilience in Engineering (CEE 690.06) | Graduate Teaching Assistant | Spring 2022 <br />
+| Mechanics of Solids (EGR 201) | Graduate Teaching Assistant | Fall 2021 <br />
 
