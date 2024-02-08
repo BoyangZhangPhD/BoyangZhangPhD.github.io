@@ -25,3 +25,11 @@ and to educate them to be excellent contributors to society.
 | Risk and Resilience in Engineering (CEE 690.06) | Graduate Teaching Assistant | Spring 2022 <br />
 | Mechanics of Solids (EGR 201) | Graduate Teaching Assistant | Fall 2021 <br />
 
+\begin{center}
+\begin{tabular}{ c c c }
+ cell1 & cell2 & cell3 \\ 
+ cell4 & cell5 & cell6 \\  
+ cell7 & cell8 & cell9    
+\end{tabular}
+\end{center}
+
