@@ -20,6 +20,24 @@ My ultimate teaching objectives are to
 equip my students with the competency to identify, formulate, and innovatively solve engineering challenges
 and to educate them to be excellent contributors to society.
 
+<style>
+  table td {
+    border: none !important;
+  }
+</style>
+<table>
+  <tbody>
+    <tr>
+      <td>Column One</td>
+      <td>Column One</td>
+    </tr>
+    <tr>
+      <td>Content of column one</td>
+      <td>Content of column two</td>
+    </tr>
+  </tbody>
+</table>
+
 * Uncertainty, Design, and Optimization (CEE 201) | Co-instructor | Spring 2023 <br />
   * 20 undergraduate students | &nbsp; | &nbsp; <br />
 * Risk and Resilience in Engineering (CEE 690.06) | Graduate Teaching Assistant | Spring 2022 <br />
