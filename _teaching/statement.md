@@ -24,7 +24,7 @@ My past teaching experiences are presented as below.
 
 ### At Duke University, Durham, NC, USA
 
-{% include base_path %}
+<br />
 
 <!---
   Reference to create a table without borders: https://gist.github.com/rgoj/1350d71e57b68684cc30f38a9b0703f5.
@@ -34,7 +34,7 @@ My past teaching experiences are presented as below.
 <style>
   table td {
     border: none !important;
-    font-size:14px;
+    font-size:18px;
   }
 </style>
 <table>
@@ -70,12 +70,12 @@ My past teaching experiences are presented as below.
 
 ### At Memorial University, St. John's, NL, Canada
 
-{% include base_path %}
+<br />
 
 <style>
   table td {
     border: none !important;
-    font-size:14px;
+    font-size:18px;
   }
 </style>
 <table>
