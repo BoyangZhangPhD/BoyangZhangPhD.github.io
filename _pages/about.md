@@ -28,7 +28,7 @@ I look forward to talking with you soon!
 
 --- 
 
-{% include base_path %} 
+<br /> 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DlSMo3z0AdxQhtPfR5A3KhMXa2GBayjG7Mc48sDhpE4&cl=ffffff&w=a"></script>
  
