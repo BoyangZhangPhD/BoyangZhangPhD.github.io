@@ -24,7 +24,7 @@ My past teaching experiences are presented as below.
 
 ### At Duke University, Durham, NC, USA
 
-<br />
+{% include base_path %}
 
 <!---
   Reference to create a table without borders: https://gist.github.com/rgoj/1350d71e57b68684cc30f38a9b0703f5.
@@ -66,11 +66,11 @@ My past teaching experiences are presented as below.
   </tbody>
 </table>
 
-<br />
+{% include base_path %}
 
 ### At Memorial University, St. John's, NL, Canada
 
-<br />
+{% include base_path %}
 
 <style>
   table td {
@@ -107,7 +107,7 @@ My past teaching experiences are presented as below.
   </tbody>
 </table>
 
-<br /> 
+{% include base_path %} 
 
 As a future faculty member, I aspire to implement state-of-the-art pedagogical techniques as
 well as my own research findings into my teaching to enrich the students’ learning experience.
