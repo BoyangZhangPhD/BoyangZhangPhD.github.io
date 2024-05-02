@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Download the [job ad for fully-funded M.S. and Ph.D. students](/files/Fully-Funded_MS_PhD_Opportunities_in_Robotics_Control.pdf). 
+### You can also download the [job ad for fully-funded M.S. and Ph.D. students](/files/Fully-Funded_MS_PhD_Opportunities_in_Robotics_Control.pdf). 
 
 {% include base_path %}
 
