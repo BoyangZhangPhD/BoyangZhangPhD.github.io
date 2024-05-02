@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I am an incoming tenure-track assistant professor in mechanical engineering at the [University of Louisiana at Lafayette](https://louisiana.edu/) starting August 2024. My research interests and expertise lie in robotics, cyber-physical systems, control theory, and optimization. 
-I am actively recruiting M.S. and Ph.D. students. More details on these _fully-funded_ graduate studentships can be found under the page "[**Opportunities**](https://boyangzhangphd.github.io/opportunities)". 
+
+I am actively recruiting M.S. and Ph.D. students starting in Fall 2024/Spring 2025. More details on these _fully-funded_ graduate studentships can be found under the page "[**Opportunities**](https://boyangzhangphd.github.io/opportunities)". 
 
 I earned a doctorate in Civil and Environmental Engineering and an M.S. degree in Electrical and Computer Engineering from [Duke University](https://duke.edu/), where I was fortunate to have esteemed professors, Drs. [Henri Gavin (Chair)](https://cee.duke.edu/faculty/henri-gavin), [Jerome Lynch](https://cee.duke.edu/faculty/jerome-lynch), [Earl Dowell](https://mems.duke.edu/faculty/earl-dowell), [Michael Zavlanos](https://mems.duke.edu/faculty/michael-zavlanos), and [Dennis Bernstein](https://aero.engin.umich.edu/people/bernstein-dennis/), on my dissertation committee. 
 Prior to my time at Duke, I earned an M.Eng. degree (with highest distinction) from [Memorial University, Canada](https://www.mun.ca/) and a B.Eng. degree from [Tianjin University, China](https://www.tju.edu.cn/), both in Ocean and Naval Architectural Engineering.
@@ -19,12 +20,11 @@ I have published my [**research**](https://boyangzhangphd.github.io/research) in
 
 During my doctoral training at Duke, I had the privilege of receiving several highly selective and prestigious awards, including [Preparing Future Faculty Fellowship](https://gradschool.duke.edu/professional-development/programs/preparing-future-faculty/), [Bass Instructional Teaching Assistant Fellowship](https://gradschool.duke.edu/professional-development/programs/bass-instructional-fellowships/), [Summer Research Fellowship](https://gradschool.duke.edu/financial-support/find-funding/summer-research-fellowship-students-physical-sciences-and-engineering-third-year-phd-students-and/), [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), and [U.S. Army Research Office Short-Term Innovative Research Award](https://www.arl.army.mil/collaborate-with-us/opportunity/arl-baa/). 
 
-Here is my [**CV**](https://boyangzhangphd.github.io/cv). More details about my teaching experience and recent updates are respectively available under the "[**Teaching**](https://boyangzhangphd.github.io/teaching)" tab and the "[**News**](https://boyangzhangphd.github.io/news)" tab on my website. 
-
+Here is my [**CV**](https://boyangzhangphd.github.io/cv). More details about my teaching experience and recent updates are respectively available under the "[**Teaching**](https://boyangzhangphd.github.io/teaching)" tab and the "[**News**](https://boyangzhangphd.github.io/news)" tab. 
 
 ---
 
-Please feel free to contact me via <code class="language-plaintext highlighter-rouge"> boyang[dot]zhang[at]duke[dot]edu </code> for any questions or opportunities. 
+Please feel free to contact me via <code class="language-plaintext highlighter-rouge"> boyang[dot]zhang[at]duke[dot]edu </code>. 
 I look forward to talking with you soon! 
 
 --- 
