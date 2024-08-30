@@ -6,11 +6,17 @@ author_profile: true
 ---
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
+<b>[08/2024]</b> Officially started as a tenure-track Assistant Professor in Mechanical Engineering at the University of Louisiana at Lafayette! <br />
+
+<b>[03/2024]</b> Invited to give a Plenary Talk at the 7th TX-LA Undergraduate Mathematics Conference. <br />
+
+<b>[02/2024]</b> Invited talk at Baylor University's Department of Electrical and Computer Engineering. <br />
+
+<b>[01/2024]</b> Invited talk at Rice University's Department of Computer Science. <br />
+
 <b>[10/2023]</b> Won the first place at the [inaugural Duke DEFINE Academy](https://sites.google.com/view/duke-engineering-define/home), where 26 PhD candidates and postdocs were selected from 82 applicants nationwide. <br />
 
 <b>[09/2023]</b> Graduated from Duke University with a **Ph.D. degree in Civil and Environmental Engineering** and an **M.S. degree in Electrical and Computer Engineering**! <br />
-
-<b>[06/2023]</b> Won the highly selective [Outstanding Self-financed Students Abroad Award](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad)! <br />
 
 <b>[05/2023]</b> Presented my paper "[Computationally Efficient Tracking Control of Differential Drive Wheeled Mobile Robots](https://ieeexplore.ieee.org/document/10156242)" at the 2023 American Control Conference (ACC). <br />
 
