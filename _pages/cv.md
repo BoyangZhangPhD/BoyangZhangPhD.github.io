@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### You can also download my CV [here](/files/CV_Boyang_Zhang.pdf) (version December 2023). 
+### You can also download my CV [here](/files/CV_Boyang_Zhang.pdf) (version August 2024). 
 
 {% include base_path %}
 
