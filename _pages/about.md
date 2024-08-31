@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track assistant professor in mechanical engineering at the [University of Louisiana at Lafayette](https://louisiana.edu/). My research interests and expertise lie in robotics, cyber-physical systems, control theory, and optimization. 
+I am a tenure-track assistant professor in mechanical engineering at the [University of Louisiana at Lafayette](https://louisiana.edu/). My research interests and expertise broadly lie in robotics, cyber-physical systems, control theory, and optimization. 
 
-I am actively recruiting M.S. and Ph.D. students starting in Spring 2025/Fall 2025. More details on these _fully-funded_ graduate studentships can be found under the page "[**Opportunities**](https://boyangzhangphd.github.io/opportunities)". 
+I am actively recruiting M.S. and Ph.D. students matriculating in Spring 2025/Fall 2025. More details on these _fully-funded_ graduate studentships can be found under the page "[**Opportunities**](https://boyangzhangphd.github.io/opportunities)". 
 
 I earned a doctorate in Civil and Environmental Engineering and an M.S. degree in Electrical and Computer Engineering from [Duke University](https://duke.edu/), where I was fortunate to have esteemed professors, Drs. [Henri Gavin (Chair)](https://cee.duke.edu/faculty/henri-gavin), [Jerome Lynch](https://cee.duke.edu/faculty/jerome-lynch), [Earl Dowell](https://mems.duke.edu/faculty/earl-dowell), [Michael Zavlanos](https://mems.duke.edu/faculty/michael-zavlanos), and [Dennis Bernstein](https://aero.engin.umich.edu/people/bernstein-dennis/), on my dissertation committee. 
 Prior to my time at Duke, I earned an M.Eng. degree (with highest distinction) from [Memorial University, Canada](https://www.mun.ca/) and a B.Eng. degree from [Tianjin University, China](https://www.tju.edu.cn/), both in Ocean and Naval Architectural Engineering.
@@ -23,7 +23,7 @@ Here is my [**CV**](https://boyangzhangphd.github.io/cv). More details about my 
 
 ---
 
-Please feel free to contact me via <code class="language-plaintext highlighter-rouge"> boyang[dot]zhang[at]duke[dot]edu </code>. 
+Please feel free to contact me via <code class="language-plaintext highlighter-rouge">boyang [dot] zhang [at] louisiana [dot] edu</code>. 
 I look forward to talking with you soon! 
 
 --- 
