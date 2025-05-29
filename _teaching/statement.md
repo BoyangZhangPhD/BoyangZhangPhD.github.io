@@ -45,6 +45,14 @@ My past teaching experiences are presented as below.
       <td> Instructor </td>
       <td> Fall 2024 </td>
     </tr>
+    <!-- New Row -->
+    <tr>
+      <td>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>-</b> 42 undergraduate students
+      </td>
+      <td> Instructor </td>
+      <td> Spring 2025 </td>
+    </tr>
   </tbody>
 </table>
 
