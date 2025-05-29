@@ -8,13 +8,14 @@ main:
 
   - title: "Teaching"
     url: /teaching/ 
- 
+
+  - title: "Opportunities"
+    url: /opportunities/
+    
+<!--- 
   - title: "News"
     url: /news/  
     
   - title: "CV"
     url: /cv/
-
-  - title: "Opportunities"
-    url: /opportunities/
-    
+  --> 
